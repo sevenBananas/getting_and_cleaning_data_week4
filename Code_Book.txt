@@ -1,3 +1,8 @@
+The tidy text file produced by run_analysis.R summarizes for each subject during each activity (walking, walking upstairs, walking downstairs, sitting, standing, laying) the signals produced by the accelerometer and gyroscope of the wearable technology. You will the find both the average of any mean signal, and the average of the standard deviation of any signal.
+
+More information about the signals themselves can be found below.
+
+
 Feature Selection 
 =================
 
