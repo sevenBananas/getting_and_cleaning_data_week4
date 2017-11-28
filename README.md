@@ -1,3 +1,10 @@
+In this repo you will find all the files required for the Getting and Cleaning Data course project.
+
+There is a file called run_analysis.R which downloads and organizes the data
+There is a CodeBook to help you understand what exactly the data is
+There is the output txt file required by the project
+Below you will find a complete description of the course project itself
+
 Getting and Cleaning Data Course Project
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. You will be graded by your peers on a series of yes/no questions related to the project. You will be required to submit: 1) a tidy data set as described below, 2) a link to a Github repository with your script for performing the analysis, and 3) a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.
 
