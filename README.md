@@ -1,8 +1,11 @@
 In this repo you will find all the files required for the Getting and Cleaning Data course project.
 
 There is a file called run_analysis.R which downloads and organizes the data
+
 There is a CodeBook to help you understand what exactly the data is
+
 There is the output txt file required by the project
+
 Below you will find a complete description of the course project itself
 
 Getting and Cleaning Data Course Project
